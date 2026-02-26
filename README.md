@@ -1,21 +1,24 @@
-### Hi there 👋
+# Baptiste Gauduchon
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bgauduch&count_private=true&show_icons=true&theme=tokyonight)
+> Cloud Architect & DevSecOps | Freelance — Lyon, France
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bgauduch&layout=compact&theme=tokyonight)
+Cloud & Platform Engineer with 10+ years in IT. I industrialize cloud infrastructure through IaC, CI/CD pipelines, and platform engineering.
 
+### Tech Stack
 
-<!--
-**bgauduch/bgauduch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=terraform,aws,azure,docker,kubernetes,git,linux,go,githubactions,gitlab&theme=dark" />
+  </a>
+</p>
 
-Here are some ideas to get you started:
+### GitHub Stats
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=bgauduch&count_private=true&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bgauduch&layout=compact&theme=tokyonight&hide_border=true" height="170" />
+</p>
+
+---
+
+📨 Open for freelance · [LinkedIn](https://linkedin.com/in/bgauduchon)
