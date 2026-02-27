@@ -2,7 +2,7 @@
 
 > Cloud Architect & DevSecOps | Freelance — Lyon, France
 
-Cloud & Platform Engineer with 10+ years in IT. I industrialize cloud infrastructure through IaC, CI/CD pipelines, and platform engineering.
+Cloud & Platform Engineer with 10+ years in IT. I industrialize cloud infrastructure through IaC, CI/CD pipelines, and platform engineering. Open-source enthusiast, I enjoy contributing to and building tools that benefit the community.
 
 ### Tech Stack
 
