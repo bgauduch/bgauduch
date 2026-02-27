@@ -25,4 +25,4 @@ Cloud & Platform Engineer with 10+ years in IT. I industrialize cloud infrastruc
 
 ---
 
-<img src="https://skillicons.dev/icons?i=linkedin&theme=dark" alt="LinkedIn" width="20" /> Open for freelance · [LinkedIn](https://www.linkedin.com/in/baptistegauduchon/)
+Open for freelance · <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" alt="LinkedIn" width="20" /> [LinkedIn](https://www.linkedin.com/in/baptistegauduchon/)
