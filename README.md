@@ -8,7 +8,7 @@ Cloud & Platform Engineer with 10+ years in IT. I industrialize cloud infrastruc
 
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=terraform,aws,azure,docker,kubernetes,git,linux,go,githubactions,gitlab&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=terraform,aws,azure,docker,kubernetes,git,linux,python,githubactions,gitlab&theme=dark" />
   </a>
 </p>
 
