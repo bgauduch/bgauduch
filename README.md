@@ -21,4 +21,4 @@ Cloud & Platform Engineer with 10+ years in IT. I industrialize cloud infrastruc
 
 ---
 
-📨 Open for freelance · [LinkedIn](https://linkedin.com/in/bgauduchon)
+📨 Open for freelance · [LinkedIn](https://www.linkedin.com/in/baptistegauduchon/)
