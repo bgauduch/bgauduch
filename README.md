@@ -13,6 +13,7 @@ Cloud & Platform Engineer with 10+ years in IT. I industrialize cloud infrastruc
   <a href="https://www.docker.com"><img src="https://skillicons.dev/icons?i=docker&theme=dark" alt="Docker" /></a>
   <a href="https://kubernetes.io"><img src="https://skillicons.dev/icons?i=kubernetes&theme=dark" alt="Kubernetes" /></a>
   <a href="https://www.terraform.io"><img src="https://skillicons.dev/icons?i=terraform&theme=dark" alt="Terraform" /></a>
+  <a href="https://www.packer.io"><img src="https://skillicons.dev/icons?i=packer&theme=dark" alt="Packer" /></a>
   <a href="https://www.ansible.com"><img src="https://skillicons.dev/icons?i=ansible&theme=dark" alt="Ansible" /></a>
   <a href="https://git-scm.com"><img src="https://skillicons.dev/icons?i=git&theme=dark" alt="Git" /></a>
   <a href="https://about.gitlab.com"><img src="https://skillicons.dev/icons?i=gitlab&theme=dark" alt="GitLab" /></a>
